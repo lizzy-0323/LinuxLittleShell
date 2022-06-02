@@ -1,0 +1,8 @@
+MKDIR                                           User Commands                                            MKDIR(1)
+
+NAME
+       mkdir - make directories
+SYNOPSIS
+       mkdir  DIRECTORY...
+        
+    written by lazy1 2022/4/27

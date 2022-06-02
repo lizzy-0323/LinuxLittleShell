@@ -1,0 +1,9 @@
+RM 
+
+NAME
+       rm - remove files or directories
+
+SYNOPSIS
+       rm  [FILE]...
+    
+    written by lazy1 2022/4/27

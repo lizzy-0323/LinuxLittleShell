@@ -1,0 +1,9 @@
+CD
+
+Name
+    cd- change working directory
+    
+SYNOPSIS
+    cd + [path]
+
+    written by lazy1 2022/4/27

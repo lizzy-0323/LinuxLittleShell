@@ -1,0 +1,12 @@
+LS
+
+Name
+    ls- list directory contents
+
+SYNOPSIS
+   ls+ [-l] [file ...]
+   
+DESCRIPTION
+   -l use long listing format
+
+    written by lazy1 2022/4/27

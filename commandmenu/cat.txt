@@ -1,0 +1,9 @@
+CAT
+
+Name
+    cat-concatenate files and print on the standard output
+    
+SYNOPSIS
+    cat + files
+    
+    written by lazy1 2022/4/27

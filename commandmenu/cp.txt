@@ -1,0 +1,10 @@
+CP
+
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp SOURCE DEST
+
+
+       written by lazy1 2022/4/27

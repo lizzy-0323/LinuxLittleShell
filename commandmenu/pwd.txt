@@ -1,0 +1,8 @@
+PWD(1) 
+
+NAME
+       pwd - print name of current/working directory
+
+SYNOPSIS
+       pwd..
+           written by lazy1 2022/4/27

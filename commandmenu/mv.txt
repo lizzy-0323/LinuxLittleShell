@@ -1,0 +1,10 @@
+MV        
+
+NAME
+       mv -rename files
+
+SYNOPSIS
+       mv SOURCE DEST
+
+
+    written by lazy1 2022/4/27

@@ -1,0 +1,11 @@
+HISTORY
+
+NAME
+       history - list the command history
+
+SYNOPSIS
+       hisotry + commandnumber
+
+
+
+    written by lazy1 2022/4/27

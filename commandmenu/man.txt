@@ -1,0 +1,21 @@
+Manul paper Utils
+
+Name
+    man- an command use to show command manuals
+
+SYNOPSIS
+    man + [command]
+    
+Manul list:
+    cat
+    ls
+    mkdir
+    pwd
+    rm
+    wc
+    cp
+    mv
+    history
+
+
+    written by lazy1 2022/4/27
